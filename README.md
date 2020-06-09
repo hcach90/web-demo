@@ -1,1 +1,1 @@
-Use to deploy web application
+Use to deploy Angular application
