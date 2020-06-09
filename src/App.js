@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            ReactJS App of CHMN 4
+            ReactJS App of CHMN 5
           </p>
           <a
             className="App-link"
